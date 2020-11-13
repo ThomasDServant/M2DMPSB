@@ -47,10 +47,10 @@ Programmes utilisé pour ce projet
 
 Tous les membres de la promo M2 DM PSB ont contribué a ce projet :
 
-* **Thomas Servant** _alias_ [@outout14](https://github.com/ThomasDServant)
-* **Venivic** _alias_ [@outout14](https://github.com/Venivic)
-* **yinxueting** _alias_ [@outout14](https://github.com/yinxueting)
-* **Kadaluck** _alias_ [@outout14](https://github.com/Kadaluck)
+* **Thomas Servant** _alias_ [@ThomasDServant](https://github.com/ThomasDServant)
+* **Victor Garcia** _alias_ [@Venivic](https://github.com/Venivic)
+* **Xueting Yin** _alias_ [@yinxueting](https://github.com/yinxueting)
+* **Alexandre Kadaoui** _alias_ [@Kadaluck](https://github.com/Kadaluck)
 
 
 
