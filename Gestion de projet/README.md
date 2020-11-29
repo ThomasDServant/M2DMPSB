@@ -31,8 +31,8 @@ Ressources COVID-19 :
 
 Ressources mobilité :
 
-- Exemple 1
-- Exemple 2
+* [Données relatives au mode de transport](https://covid19.apple.com/mobility)
+* [Données relatives à l'objetif de transport](https://www.google.com/covid19/mobility/?hl=fr)
 
 
 ## Fabriqué avec 
@@ -53,6 +53,8 @@ Tous les membres de la promo M2 DM PSB ont contribué a ce projet :
 * **Alexandre Kadaoui** _alias_ [@Kadaluck](https://github.com/Kadaluck)
 * **Théo Marié** _alias_ [@theomarie78960](https://github.com/theomarie78960)
 * **Tarik Hakam** _alias_ [@T-Hak](https://github.com/T-Hak)
+* **Vincent Obertelli** _alias_ [@vincent93700](https://github.com/vincent93700)
+* **Wenjun Zhao** _alias_ [@claudia0524](https://github.com/claudia0524)
 
 
 
