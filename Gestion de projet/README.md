@@ -51,6 +51,7 @@ Tous les membres de la promo M2 DM PSB ont contribué a ce projet :
 * **Victor Garcia** _alias_ [@Venivic](https://github.com/Venivic)
 * **Xueting Yin** _alias_ [@yinxueting](https://github.com/yinxueting)
 * **Alexandre Kadaoui** _alias_ [@Kadaluck](https://github.com/Kadaluck)
+* **Théo Marié** _alias_ [@theomarie78960](https://github.com/theomarie78960)
 
 
 
