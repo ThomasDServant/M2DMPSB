@@ -32,7 +32,7 @@ Ressources COVID-19 :
 Ressources mobilité :
 
 * [Données relatives au mode de transport](https://covid19.apple.com/mobility)
-* [Données relatives à l'objetif de transport](https://www.google.com/covid19/mobility/?hl=fr)
+* [Données relatives à l'objectif de transport](https://www.google.com/covid19/mobility/?hl=fr)
 
 
 ## Fabriqué avec 
