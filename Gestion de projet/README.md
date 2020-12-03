@@ -53,6 +53,11 @@ Tous les membres de la promo M2 DM PSB ont contribué a ce projet :
 * **Alexandre Kadaoui** _alias_ [@Kadaluck](https://github.com/Kadaluck)
 * **Théo Marié** _alias_ [@theomarie78960](https://github.com/theomarie78960)
 * **Jingwen Su** _alias_ [@Jingwen-su](https://github.com/Jingwen-su)
+* **Jean Souris** _alias_ [@jeansouris](https://github.com/jeansouris)
+* **Amine Benben** _alias_ [@Amine Benben](https://github.com/benben62)
+* **Teddy Leandre** _alias_ [@Teddy Leandre](https://github.com/pelopelo1)
+
+
 
 
 
