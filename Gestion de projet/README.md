@@ -21,8 +21,8 @@ Ce qu'il est requis pour commencer ce projet
 
 Ressources comportement :
 
-- exemple 1
-- exemple 2
+* [Consommation d'électricité de différents groupes de personnes ](https://www.data.gouv.fr/fr/datasets/consommation-journaliere-par-categorie-client/#_)
+* [consommation quotidienne brute regionale](https://opendata.reseaux-energies.fr/explore/dataset/consommation-quotidienne-brute-regionale/information/?disjunctive.region)
 
 Ressources COVID-19 : 
 
@@ -52,6 +52,7 @@ Tous les membres de la promo M2 DM PSB ont contribué a ce projet :
 * **Xueting Yin** _alias_ [@yinxueting](https://github.com/yinxueting)
 * **Alexandre Kadaoui** _alias_ [@Kadaluck](https://github.com/Kadaluck)
 * **Théo Marié** _alias_ [@theomarie78960](https://github.com/theomarie78960)
+* **Jingwen Su** _alias_ [@Jingwen-su](https://github.com/Jingwen-su)
 
 
 
